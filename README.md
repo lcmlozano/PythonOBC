@@ -25,3 +25,16 @@
 - int(nomeVariavel) - Converte para inteiro
 - float(nomeVarivel) - Converte para float
 ---
+
+#### Aula Aprendendo a concatenar valores
+- Para comentar várias linhas no VSCode do Mac utilize COMMAND + / com as linhas selecionadas.
+
+#### Aula Detalhando a utilização de Strings
+- ''' ''' atribuição multilinhas para strings.
+
+#### Aula Gerando Substring a partir de uma String
+- Nessa aula aprendemos sobre fatiamento de Strings.
+- A técnica de slice ou fatiamento, é muito utilizada em Python, pois por meio dela, podemos extrair substrings dentro de uma string.
+- Para isso, precisamos entender como funciona a indexação na linguagem Python.
+- a indexação em Python começa pelo índice 0 e deve ser lida da esquerda para direita. Da direita para esquerda, temos a indexação inversa, que é representada por número negativo.
+
