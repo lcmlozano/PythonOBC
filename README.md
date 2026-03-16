@@ -44,6 +44,14 @@
 #### Aula Utilizando o tipo dado Tupla
 - Não permite adicionar, remover ou ordenar itens na tupla, a mesma é imutável.
 
+#### Aula Utilizando o tipo dado Set
+- Não possibilita recuperar valores no set via slice
+
+#### Aula Utilizando o tipo dado Dicionario
+- Estrutura mais completa
+- Tem chave
+- Parece JSON (pares de valores)
+
 
 
 
