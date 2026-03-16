@@ -38,3 +38,12 @@
 - Para isso, precisamos entender como funciona a indexação na linguagem Python.
 - a indexação em Python começa pelo índice 0 e deve ser lida da esquerda para direita. Da direita para esquerda, temos a indexação inversa, que é representada por número negativo.
 
+#### Aula Utilizando o tipo dado Lista
+- [] listas podem ter dados heterogêneos
+
+#### Aula Utilizando o tipo dado Tupla
+- Não permite adicionar, remover ou ordenar itens na tupla, a mesma é imutável.
+
+
+
+
